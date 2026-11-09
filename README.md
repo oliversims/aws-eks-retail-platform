@@ -450,7 +450,13 @@ images/             architecture diagrams and live console captures
 LICENSE             all rights reserved
 ```
 
-Terraform stacks, Helm values, GitHub Actions workflows, Argo CD manifests, and the retail application source stay private.
+Private source layout (not in this repository):
+
+```text
+platform/           VPC through logging
+retail-store/       data plane, Argo CD, ECR, Helm
+retail-store/app/   five services and image CI
+```
 
 ---
 
