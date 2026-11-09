@@ -53,7 +53,7 @@ This repository is the write-up and the screenshots from the validated run. Terr
 ### Platform
 
 <p align="center">
-  <img src="images/retail-eks-platform-architecture-v51.png" alt="Retail EKS platform architecture" width="820" />
+  <img src="images/retail-eks-platform-architecture-v52.png" alt="Retail EKS platform architecture" width="820" />
 </p>
 
 ### Service architecture
